@@ -34,10 +34,12 @@
 #define USE_ZOS
 #define USE_EXTRA
 
-struct loop_funcs {};
-struct iconv_fallbacks {};
-struct iconv_hooks {};
+//struct loop_funcs;
+//struct iconv_fallbacks;
+//struct iconv_hooks;
+#include "iconv.h"
 #include "converters.h"
+
 
 static void emit_encoding (struct wctomb_funcs * ofuncs, const char* c_name)
 {
