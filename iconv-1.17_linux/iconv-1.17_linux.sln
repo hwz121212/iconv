@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_demo", "1_demo", "{9A781B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libiconv", "thirdparty\iconv-1.17_linux\libiconv_linux.vcxproj", "{791642ED-9E59-4F42-927B-3562F869D9C1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genaliases", "demo\genaliases\genaliases.vcxproj", "{492B8D1D-F7ED-4C08-AE65-38BCEDD0CB9F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genaliases", "demo\genaliases\genaliases_linux.vcxproj", "{492B8D1D-F7ED-4C08-AE65-38BCEDD0CB9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
