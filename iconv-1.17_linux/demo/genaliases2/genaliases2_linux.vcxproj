@@ -14,7 +14,7 @@
     <ClCompile Include="genaliases2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{ED934049-9CF5-4D2B-88B6-3F30D8F03A86}</ProjectGuid>
+    <ProjectGuid>{4A1CC9CB-2596-48D2-8859-96652A119839}</ProjectGuid>
     <Keyword>Linux</Keyword>
     <RootNamespace>zlib</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
